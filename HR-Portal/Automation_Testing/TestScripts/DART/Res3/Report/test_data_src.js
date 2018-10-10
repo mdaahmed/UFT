@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'C:\\arif_2nd_PC\\projects_2nd_Pc\\HR-Portal\\Automation_Testing\\TestScripts\\DART\\Res3',namePairs:[]}]};

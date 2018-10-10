@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>The DataTable.Export (file) operation failed. </Name>
+    <ErrorText>The DataTable.Export (file) operation failed. 
+Cannot open the C:\arif_2nd_PC\projects_2nd_Pc\HR-Portal\Automation_Testing\Result file because access is denied.</ErrorText>
+    <Description>&lt;BR/&gt;Cannot open the C:\arif_2nd_PC\projects_2nd_Pc\HR-Portal\Automation_Testing\Result file because access is denied.&lt;BR/&gt;Line (22): &amp;quot;DataTable.Export &amp;quot;C:\arif_2nd_PC\projects_2nd_Pc\HR-Portal\Automation_Testing\Result&amp;quot;&amp;quot;.</Description>
+    <StartTime>2018-10-09 15:19:51</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[05_Logout]]></ModuleName>
+          <FileName><![CDATA[05_Logout]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[DataTable.Export "C:\arif_2nd_PC\projects_2nd_Pc\HR-Portal\Automation_Testing\Result"]]></Scripts>
+          <LineNo><![CDATA[22]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <IconKey>b9d783410b114d3ca4390e2c60b99d86</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2018-10-09 15:19:58</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>721f5b83d97549f39359469b1b5abe9d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>05_Logout</Name>
+    <Description />
+    <StartTime>2018-10-09 15:19:49</StartTime>
+    <Duration>9</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>f2e861da5d1744d2b335974cc48ac2d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>01_Workman_Compen_Add</Name>
+    <ToolName>Micro Focus Unified Functional Testing</ToolName>
+    <ToolVersion>14.50</ToolVersion>
+    <ToolVersionStringLiteral>14.50</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2018-10-09 15:19:48</StartTime>
+    <Duration>10</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>665e7220ff82483fa7f0f1a30055a9c8</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>-04:00:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>DOT\mdaahmed</User>
+      <CpuInfo>Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz</CpuInfo>
+      <NumberOfCores>8</NumberOfCores>
+      <TotalMemory>16305</TotalMemory>
+      <HostName>dot.nycnet\DOT-JBR4JB2</HostName>
+      <OSInfo>Windows 7 Service Pack 1 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xls" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res6</ResultName>
+    <RunStartTime>2018-10-09 15:19:48</RunStartTime>
+    <Timezone>-04:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>14.50</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>14.50</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>
